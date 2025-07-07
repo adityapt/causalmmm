@@ -1,5 +1,5 @@
 # causalmmm
-A repository to build causal MMM models
+A repository to build causal MMM models. This application was developed using Replit.
 
 ## Overview
 This is a Streamlit web application called CausalMMM (Causal Marketing Mix Modeling) built for marketing analytics. The application allows users to upload marketing data, select variables dynamically, perform causal analysis with GRU + Bayesian Networks, and visualize results in real-time. It uses Python with Streamlit frontend and PyTorch ML backend.
