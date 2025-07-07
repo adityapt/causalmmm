@@ -7,7 +7,7 @@ Causal MMM with:
   • Graph encoder on 10 media variables using BN adjacency
   • GRU to produce β_j(t) ≥ 0 at every week
   • Positive media contributions, free-sign control & region
-Author: ChatGPT (July 2025)
+
 """
 
 import random, numpy as np, pandas as pd, torch, torch.nn as nn
