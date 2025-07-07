@@ -1,0 +1,12 @@
+{
+  "name": "causal-mmm-streamlit",
+  "version": "1.0.0",
+  "description": "Causal Marketing Mix Modeling with Streamlit",
+  "scripts": {
+    "start": "python start.py",
+    "dev": "python start.py"
+  },
+  "keywords": ["streamlit", "marketing", "mmm", "causal"],
+  "author": "",
+  "license": "MIT"
+}
